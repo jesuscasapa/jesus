@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+    <title>Mis blog noticias 24hr</title>
+    <description>Últimas noticias sobre el fútbol español</description>
+    <link>http://www.miblognoticias24hr.com/</link>
+    <language>es</language>
+    <item>
+        <title>El fútbol español ya no es lo que era</title>
+        <description>El fútbol español no vive su mejor momento, ya no vemos espontaneidad, dependemos de todas las tecnologías y aún así no alcanza la objetividad en el juego.</description>
+        <link>http://www.miblognoticias24hr.com/elfutbolespanolyanoesloqueera.html</link>
+        <guid>http://www.miblognoticias24hr.com/elfutbolespanolyanoesloqueera.html</guid>
+        <pubDate>Wed, 29 Jan 2025 12:00:00 +0000</pubDate>
+        <author>francisco.marine@miblognoticias24hr.com</author>
+    </item>
+    <item>
+        <title>La Liga anuncia nuevas medidas para mejorar el VAR</title>
+        <description>La Liga española ha anunciado una serie de medidas para mejorar la implementación del VAR y reducir las controversias en los partidos.</description>
+        <link>http://www.miblognoticias24hr.com/laligaanunciamejorasvar.html</link>
+        <guid>http://www.miblognoticias24hr.com/laligaanunciamejorasvar.html</guid>
+        <pubDate>Thu, 30 Jan 2025 09:30:00 +0000</pubDate>
+        <author>jesuscasablancapareja@miblognoticias24hr.com</author>
+    </item>
+    <item>
+        <title>Joven promesa del Barça debuta en Primera División</title>
+        <description>El FC Barcelona ha dado la oportunidad a uno de sus jóvenes talentos de La Masia de debutar en Primera División, mostrando su apuesta por la cantera.</description>
+        <link>http://www.miblognoticias24hr.com/elsevillaescalapuestos.html</link>
+        <guid>http://www.miblognoticias24hr.com/elsevillaescalapuestos.html</guid>
+        <pubDate>Fri, 31 Jan 2025 18:45:00 +0000</pubDate>
+        <author>manolitolama@miblognoticias24hr.com</author>
+    </item>
+</channel>
+</rss>
